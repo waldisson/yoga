@@ -117,3 +117,63 @@ nav {
   width: 356px;
   height: 456px;
 }
+
+/* Inicio area main  */
+
+main {
+  background-color: #E5E5E5;
+
+}
+.classes {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top:60px;
+}
+.classes-area-image img {
+  width: 345px;
+  height: 512px;
+}
+.classes-area-block h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 59px;
+  color: #000000;
+  margin-left: 10px;
+}
+.area-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.block-master{
+ 
+}
+.block-life {
+  margin-top: 60px;
+}
+.block-blue {
+  background-color: #2E4CFF;
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.05);
+  border-radius: 30px;
+  color: #FFFFFF;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.block-white {
+  background-color: #ffffff;
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.05);
+  border-radius: 30px;
+  color: #2E4CFF;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 35px 10px;
+}
