@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #2E4CFF;
+  width: 100vw;
+  padding: 60px;
+}
+
+nav {
+  background-color: rgb(50, 183, 9);
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  background-color: red;
+}
+.area-texto {
+  width: 50%;
+  background-color: pink;
+}
+.area-image {
+  width: 50%;
+  background-color: aquamarine;
+}
